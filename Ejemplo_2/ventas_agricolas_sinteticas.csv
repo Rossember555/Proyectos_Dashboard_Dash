@@ -1,0 +1,501 @@
+Producto,Departamento,Precio_KG,Cantidad_KG,Ventas_Totales
+Cebolla,Nariño,1299,58,75342
+Maíz,Cundinamarca,1708,35,59780
+Maíz,Antioquia,2357,98,230986
+Cebolla,Nariño,1373,110,151030
+Cebolla,Atlántico,2168,82,177776
+Cebolla,Boyacá,2112,155,327360
+Papa,Cundinamarca,1724,141,243084
+Cebolla,Norte de Santander,2217,20,44340
+Papa,Meta,2078,126,261828
+Maíz,Tolima,1849,37,68413
+Maíz,Boyacá,1749,195,341055
+Naranja,Boyacá,1635,99,161865
+Naranja,Norte de Santander,1524,192,292608
+Maíz,Valle del Cauca,2333,170,396610
+Cebolla,Santander,2402,186,446772
+Maíz,Cauca,1879,183,343857
+Papa,Cundinamarca,1754,128,224512
+Naranja,Valle del Cauca,1627,62,100874
+Naranja,Atlántico,1486,29,43094
+Cebolla,Norte de Santander,2170,37,80290
+Naranja,Meta,1213,169,204997
+Cebolla,Cesar,2558,48,122784
+Naranja,Cundinamarca,1690,159,268710
+Papa,Cesar,2427,146,354342
+Papa,Atlántico,1633,81,132273
+Cebolla,Antioquia,1992,13,25896
+Naranja,Boyacá,1072,112,120064
+Maíz,Cesar,2073,171,354483
+Papa,Valle del Cauca,1586,45,71370
+Papa,Tolima,2018,75,151350
+Cebolla,Cauca,1461,172,251292
+Papa,Nariño,2343,85,199155
+Naranja,Cesar,1871,67,125357
+Naranja,Boyacá,1804,54,97416
+Papa,Boyacá,1219,192,234048
+Maíz,Santander,2466,153,377298
+Naranja,Santander,1551,163,252813
+Cebolla,Cesar,2074,188,389912
+Papa,Cesar,2483,17,42211
+Cebolla,Cesar,2073,160,331680
+Cebolla,Córdoba,2587,175,452725
+Cebolla,Huila,2407,132,317724
+Cebolla,Meta,1534,77,118118
+Naranja,Antioquia,1505,48,72240
+Cebolla,Boyacá,1336,172,229792
+Maíz,Nariño,1963,56,109928
+Cebolla,Cesar,1877,39,73203
+Papa,Antioquia,1741,173,301193
+Cebolla,Nariño,1821,30,54630
+Cebolla,Meta,1781,152,270712
+Papa,Norte de Santander,1105,137,151385
+Naranja,Boyacá,1658,133,220514
+Papa,Santander,2412,128,308736
+Naranja,Atlántico,1489,89,132521
+Papa,Huila,1443,79,113997
+Cebolla,Norte de Santander,2395,32,76640
+Maíz,Santander,2495,15,37425
+Maíz,Meta,2620,103,269860
+Cebolla,Antioquia,1614,29,46806
+Papa,Tolima,2139,36,77004
+Papa,Huila,1023,38,38874
+Maíz,Santander,2814,197,554358
+Naranja,Meta,1152,194,223488
+Papa,Cundinamarca,1103,172,189716
+Cebolla,Antioquia,2196,61,133956
+Papa,Santander,2232,85,189720
+Cebolla,Cundinamarca,1330,43,57190
+Papa,Valle del Cauca,1818,122,221796
+Maíz,Cesar,2670,181,483270
+Papa,Cesar,2045,107,218815
+Cebolla,Cesar,2285,169,386165
+Cebolla,Cesar,1233,53,65349
+Naranja,Santander,947,177,167619
+Cebolla,Boyacá,2158,66,142428
+Naranja,Tolima,1539,58,89262
+Papa,Cundinamarca,1710,62,106020
+Papa,Boyacá,2113,124,262012
+Maíz,Córdoba,2051,158,324058
+Naranja,Nariño,1282,31,39742
+Cebolla,Nariño,2441,182,444262
+Papa,Córdoba,1970,50,98500
+Naranja,Cundinamarca,1856,191,354496
+Papa,Norte de Santander,1431,78,111618
+Cebolla,Córdoba,1915,51,97665
+Maíz,Nariño,1892,66,124872
+Naranja,Santander,938,31,29078
+Maíz,Córdoba,2013,21,42273
+Papa,Meta,1191,22,26202
+Papa,Cesar,2144,183,392352
+Maíz,Norte de Santander,2426,100,242600
+Papa,Cesar,1495,34,50830
+Maíz,Antioquia,2248,101,227048
+Cebolla,Atlántico,2010,148,297480
+Papa,Norte de Santander,1181,104,122824
+Papa,Tolima,2081,143,297583
+Maíz,Valle del Cauca,1969,118,232342
+Naranja,Boyacá,1765,87,153555
+Papa,Cesar,1838,153,281214
+Cebolla,Tolima,1256,153,192168
+Naranja,Antioquia,1407,152,213864
+Maíz,Meta,2204,83,182932
+Maíz,Cesar,1626,108,175608
+Papa,Atlántico,1840,181,333040
+Naranja,Valle del Cauca,1563,145,226635
+Cebolla,Antioquia,2387,162,386694
+Papa,Nariño,1910,48,91680
+Maíz,Cundinamarca,2495,173,431635
+Maíz,Norte de Santander,1678,69,115782
+Naranja,Tolima,1930,83,160190
+Cebolla,Atlántico,1830,109,199470
+Papa,Antioquia,1755,166,291330
+Papa,Boyacá,1395,177,246915
+Maíz,Nariño,2544,167,424848
+Papa,Tolima,2355,58,136590
+Naranja,Atlántico,1259,174,219066
+Cebolla,Nariño,2538,163,413694
+Papa,Tolima,2091,65,135915
+Cebolla,Norte de Santander,1701,152,258552
+Cebolla,Boyacá,1216,21,25536
+Naranja,Antioquia,982,59,57938
+Cebolla,Boyacá,2675,178,476150
+Naranja,Meta,1977,191,377607
+Papa,Boyacá,1018,77,78386
+Cebolla,Cesar,1528,167,255176
+Papa,Antioquia,1330,138,183540
+Cebolla,Cesar,1518,53,80454
+Papa,Córdoba,1929,25,48225
+Maíz,Nariño,1787,117,209079
+Naranja,Santander,1719,38,65322
+Cebolla,Antioquia,1528,92,140576
+Papa,Atlántico,1711,66,112926
+Papa,Norte de Santander,2245,73,163885
+Maíz,Norte de Santander,2292,37,84804
+Naranja,Meta,1328,183,243024
+Cebolla,Cundinamarca,1847,70,129290
+Papa,Norte de Santander,1831,192,351552
+Papa,Santander,1149,110,126390
+Papa,Cundinamarca,1081,60,64860
+Cebolla,Antioquia,2354,43,101222
+Papa,Córdoba,1936,95,183920
+Papa,Norte de Santander,2401,139,333739
+Naranja,Cauca,1715,39,66885
+Papa,Valle del Cauca,1667,59,98353
+Papa,Meta,1460,153,223380
+Naranja,Cesar,1141,74,84434
+Cebolla,Valle del Cauca,1471,18,26478
+Papa,Atlántico,1964,150,294600
+Cebolla,Norte de Santander,1909,142,271078
+Maíz,Tolima,2649,111,294039
+Cebolla,Huila,1509,93,140337
+Cebolla,Cundinamarca,1702,92,156584
+Naranja,Cesar,1614,106,171084
+Maíz,Nariño,1678,43,72154
+Maíz,Córdoba,2146,128,274688
+Papa,Boyacá,1814,178,322892
+Maíz,Cundinamarca,2938,189,555282
+Naranja,Atlántico,1192,63,75096
+Maíz,Antioquia,1808,120,216960
+Naranja,Antioquia,1132,122,138104
+Naranja,Boyacá,1734,53,91902
+Cebolla,Valle del Cauca,2699,91,245609
+Papa,Atlántico,1511,62,93682
+Naranja,Córdoba,1293,77,99561
+Cebolla,Tolima,2193,126,276318
+Papa,Santander,1765,130,229450
+Cebolla,Boyacá,2438,116,282808
+Maíz,Meta,2941,13,38233
+Naranja,Huila,1782,184,327888
+Maíz,Nariño,2372,108,256176
+Naranja,Meta,1659,179,296961
+Cebolla,Cauca,2273,97,220481
+Cebolla,Atlántico,2705,139,375995
+Maíz,Cesar,2905,51,148155
+Naranja,Atlántico,1648,88,145024
+Maíz,Norte de Santander,1619,48,77712
+Cebolla,Santander,2275,30,68250
+Papa,Huila,1016,53,53848
+Papa,Cesar,1423,98,139454
+Maíz,Cesar,1905,163,310515
+Cebolla,Cauca,1681,111,186591
+Naranja,Norte de Santander,1440,22,31680
+Maíz,Valle del Cauca,2438,32,78016
+Naranja,Cesar,1518,130,197340
+Papa,Boyacá,1206,51,61506
+Papa,Valle del Cauca,1698,112,190176
+Cebolla,Huila,2718,57,154926
+Cebolla,Boyacá,1979,96,189984
+Maíz,Meta,2205,50,110250
+Naranja,Valle del Cauca,1011,50,50550
+Maíz,Huila,2940,198,582120
+Cebolla,Santander,1226,81,99306
+Papa,Córdoba,2274,86,195564
+Naranja,Huila,1370,114,156180
+Cebolla,Córdoba,1276,158,201608
+Cebolla,Cauca,1361,71,96631
+Cebolla,Meta,2573,56,144088
+Cebolla,Huila,2163,37,80031
+Naranja,Huila,1748,180,314640
+Maíz,Boyacá,2251,152,342152
+Cebolla,Cesar,1672,171,285912
+Papa,Córdoba,1586,114,180804
+Papa,Cauca,1523,40,60920
+Papa,Santander,2247,90,202230
+Maíz,Cundinamarca,2357,12,28284
+Maíz,Cauca,2572,199,511828
+Maíz,Atlántico,2528,14,35392
+Naranja,Cundinamarca,909,199,180891
+Papa,Cauca,2100,140,294000
+Cebolla,Cesar,2673,194,518562
+Maíz,Nariño,2927,107,313189
+Maíz,Boyacá,2588,195,504660
+Naranja,Boyacá,871,95,82745
+Papa,Cauca,1635,100,163500
+Papa,Antioquia,2080,193,401440
+Naranja,Boyacá,1645,136,223720
+Naranja,Santander,1498,88,131824
+Cebolla,Nariño,1360,49,66640
+Papa,Meta,1328,52,69056
+Papa,Tolima,2452,182,446264
+Maíz,Santander,2114,128,270592
+Maíz,Meta,2735,72,196920
+Papa,Antioquia,1483,82,121606
+Papa,Tolima,2490,72,179280
+Naranja,Huila,1124,68,76432
+Papa,Cauca,2077,75,155775
+Maíz,Meta,1878,86,161508
+Naranja,Cesar,975,22,21450
+Cebolla,Cesar,1362,120,163440
+Papa,Cundinamarca,2008,195,391560
+Papa,Cundinamarca,1845,153,282285
+Naranja,Cesar,1274,79,100646
+Cebolla,Santander,2679,198,530442
+Papa,Cauca,2405,81,194805
+Maíz,Antioquia,2248,71,159608
+Maíz,Boyacá,2069,51,105519
+Maíz,Cundinamarca,2085,142,296070
+Cebolla,Nariño,1219,59,71921
+Maíz,Tolima,1673,151,252623
+Papa,Norte de Santander,1209,67,81003
+Cebolla,Huila,1561,36,56196
+Cebolla,Meta,1470,137,201390
+Naranja,Boyacá,1318,150,197700
+Maíz,Valle del Cauca,2593,133,344869
+Naranja,Cundinamarca,1090,140,152600
+Naranja,Huila,1071,72,77112
+Cebolla,Norte de Santander,1853,16,29648
+Cebolla,Tolima,2304,68,156672
+Maíz,Antioquia,2508,37,92796
+Maíz,Antioquia,2602,20,52040
+Naranja,Antioquia,1144,45,51480
+Maíz,Antioquia,2912,198,576576
+Papa,Antioquia,1541,119,183379
+Papa,Huila,1988,106,210728
+Cebolla,Boyacá,2558,165,422070
+Papa,Cesar,1295,174,225330
+Maíz,Santander,2622,168,440496
+Maíz,Cesar,1776,41,72816
+Naranja,Santander,1782,63,112266
+Papa,Boyacá,2172,154,334488
+Papa,Antioquia,1414,47,66458
+Papa,Huila,1834,43,78862
+Papa,Santander,1752,96,168192
+Papa,Meta,1323,62,82026
+Papa,Huila,1700,176,299200
+Maíz,Norte de Santander,1714,65,111410
+Maíz,Cesar,2638,106,279628
+Papa,Norte de Santander,1114,114,126996
+Naranja,Tolima,1098,11,12078
+Cebolla,Cauca,1821,20,36420
+Cebolla,Tolima,2675,95,254125
+Maíz,Cundinamarca,2785,112,311920
+Papa,Córdoba,2180,18,39240
+Papa,Cauca,1394,186,259284
+Cebolla,Cesar,1964,14,27496
+Maíz,Cauca,1701,199,338499
+Naranja,Valle del Cauca,1440,49,70560
+Papa,Meta,2155,28,60340
+Cebolla,Santander,2345,112,262640
+Cebolla,Cesar,2687,185,497095
+Cebolla,Cesar,1698,67,113766
+Papa,Norte de Santander,1136,10,11360
+Cebolla,Cesar,2064,90,185760
+Cebolla,Norte de Santander,1846,13,23998
+Naranja,Norte de Santander,1651,149,245999
+Cebolla,Meta,2123,21,44583
+Naranja,Cundinamarca,1142,54,61668
+Naranja,Santander,1182,166,196212
+Naranja,Antioquia,915,131,119865
+Cebolla,Meta,2305,61,140605
+Maíz,Meta,2935,175,513625
+Cebolla,Nariño,2124,188,399312
+Maíz,Valle del Cauca,2154,143,308022
+Naranja,Cauca,1790,110,196900
+Naranja,Cauca,1912,190,363280
+Cebolla,Huila,2755,195,537225
+Cebolla,Santander,1963,199,390637
+Cebolla,Córdoba,2171,17,36907
+Naranja,Huila,1928,188,362464
+Naranja,Boyacá,1421,26,36946
+Maíz,Norte de Santander,2486,150,372900
+Papa,Cesar,1736,100,173600
+Naranja,Antioquia,951,83,78933
+Maíz,Antioquia,1807,50,90350
+Maíz,Atlántico,2148,198,425304
+Cebolla,Valle del Cauca,2260,170,384200
+Naranja,Huila,1131,173,195663
+Naranja,Huila,1495,120,179400
+Papa,Córdoba,1331,46,61226
+Maíz,Huila,2384,47,112048
+Maíz,Tolima,2986,35,104510
+Papa,Santander,1961,53,103933
+Papa,Córdoba,2309,66,152394
+Cebolla,Tolima,1602,191,305982
+Naranja,Norte de Santander,895,90,80550
+Cebolla,Meta,2626,161,422786
+Maíz,Santander,2723,55,149765
+Maíz,Córdoba,2089,42,87738
+Maíz,Nariño,2462,197,485014
+Naranja,Santander,1440,139,200160
+Naranja,Nariño,1914,160,306240
+Cebolla,Boyacá,2507,98,245686
+Papa,Córdoba,1470,154,226380
+Maíz,Cundinamarca,2235,140,312900
+Naranja,Cauca,1382,125,172750
+Naranja,Atlántico,987,187,184569
+Cebolla,Cundinamarca,2402,195,468390
+Maíz,Valle del Cauca,2941,130,382330
+Maíz,Nariño,2392,194,464048
+Maíz,Valle del Cauca,2167,148,320716
+Papa,Tolima,1646,138,227148
+Cebolla,Córdoba,2174,11,23914
+Maíz,Valle del Cauca,2828,125,353500
+Papa,Nariño,1578,77,121506
+Cebolla,Meta,1812,11,19932
+Naranja,Norte de Santander,1592,43,68456
+Papa,Córdoba,2159,61,131699
+Cebolla,Norte de Santander,1936,50,96800
+Naranja,Cundinamarca,1000,129,129000
+Cebolla,Valle del Cauca,1422,53,75366
+Naranja,Meta,1819,193,351067
+Papa,Córdoba,1455,73,106215
+Papa,Valle del Cauca,1663,10,16630
+Naranja,Atlántico,1418,90,127620
+Papa,Nariño,2360,185,436600
+Papa,Tolima,1286,142,182612
+Cebolla,Córdoba,1431,96,137376
+Cebolla,Córdoba,2694,27,72738
+Cebolla,Córdoba,1527,122,186294
+Papa,Cundinamarca,2331,115,268065
+Papa,Valle del Cauca,1503,119,178857
+Maíz,Boyacá,2577,50,128850
+Naranja,Norte de Santander,1439,36,51804
+Maíz,Santander,2501,132,330132
+Papa,Cesar,2114,36,76104
+Maíz,Boyacá,2848,38,108224
+Papa,Boyacá,2023,18,36414
+Papa,Boyacá,1722,195,335790
+Maíz,Tolima,2799,166,464634
+Papa,Norte de Santander,1035,44,45540
+Naranja,Tolima,1540,178,274120
+Naranja,Antioquia,1242,17,21114
+Naranja,Meta,1700,157,266900
+Naranja,Norte de Santander,1058,167,176686
+Maíz,Atlántico,2504,155,388120
+Maíz,Santander,2815,26,73190
+Papa,Antioquia,2201,101,222301
+Papa,Meta,2218,134,297212
+Cebolla,Atlántico,2283,58,132414
+Maíz,Meta,2650,51,135150
+Cebolla,Nariño,1875,61,114375
+Papa,Boyacá,2437,142,346054
+Maíz,Tolima,1944,144,279936
+Cebolla,Antioquia,1884,108,203472
+Papa,Boyacá,1371,148,202908
+Naranja,Valle del Cauca,1304,121,157784
+Cebolla,Tolima,1350,99,133650
+Cebolla,Cundinamarca,1327,60,79620
+Naranja,Huila,1736,35,60760
+Cebolla,Huila,1412,139,196268
+Cebolla,Antioquia,1697,189,320733
+Maíz,Huila,1631,140,228340
+Naranja,Córdoba,1515,141,213615
+Maíz,Tolima,1552,29,45008
+Papa,Meta,1852,92,170384
+Papa,Boyacá,2346,138,323748
+Naranja,Atlántico,1738,195,338910
+Maíz,Córdoba,2508,173,433884
+Papa,Santander,2191,143,313313
+Naranja,Valle del Cauca,1174,157,184318
+Papa,Nariño,1954,14,27356
+Papa,Meta,2200,108,237600
+Papa,Cauca,2256,91,205296
+Naranja,Atlántico,1569,131,205539
+Papa,Valle del Cauca,2082,13,27066
+Naranja,Cesar,1197,144,172368
+Maíz,Huila,2202,186,409572
+Papa,Boyacá,1054,92,96968
+Maíz,Norte de Santander,1708,130,222040
+Naranja,Norte de Santander,1828,30,54840
+Cebolla,Atlántico,2613,171,446823
+Cebolla,Norte de Santander,1584,127,201168
+Cebolla,Meta,2436,61,148596
+Cebolla,Nariño,2722,28,76216
+Cebolla,Tolima,2625,178,467250
+Papa,Córdoba,2027,12,24324
+Cebolla,Meta,1301,150,195150
+Cebolla,Cauca,1953,122,238266
+Cebolla,Córdoba,1299,112,145488
+Naranja,Huila,1048,53,55544
+Maíz,Norte de Santander,1900,20,38000
+Papa,Cauca,1674,135,225990
+Cebolla,Antioquia,1441,85,122485
+Papa,Valle del Cauca,1808,145,262160
+Papa,Cesar,1697,54,91638
+Naranja,Cauca,1785,148,264180
+Cebolla,Valle del Cauca,2596,193,501028
+Cebolla,Córdoba,2503,190,475570
+Maíz,Atlántico,2741,187,512567
+Cebolla,Boyacá,2153,109,234677
+Naranja,Atlántico,1212,58,70296
+Papa,Nariño,1213,181,219553
+Papa,Antioquia,1004,175,175700
+Naranja,Tolima,1501,92,138092
+Naranja,Santander,1168,18,21024
+Maíz,Cundinamarca,2318,193,447374
+Cebolla,Huila,1442,10,14420
+Papa,Cundinamarca,2069,78,161382
+Naranja,Córdoba,859,121,103939
+Maíz,Córdoba,2328,32,74496
+Cebolla,Meta,1787,50,89350
+Papa,Cundinamarca,1288,53,68264
+Maíz,Cundinamarca,2471,63,155673
+Cebolla,Santander,1568,98,153664
+Naranja,Nariño,1486,87,129282
+Papa,Nariño,2148,177,380196
+Cebolla,Boyacá,1380,32,44160
+Papa,Nariño,1642,42,68964
+Naranja,Huila,844,85,71740
+Naranja,Córdoba,930,150,139500
+Papa,Boyacá,2100,128,268800
+Maíz,Atlántico,2420,156,377520
+Maíz,Meta,2188,198,433224
+Naranja,Tolima,1042,27,28134
+Papa,Córdoba,2462,84,206808
+Maíz,Cauca,2393,29,69397
+Maíz,Huila,2482,33,81906
+Naranja,Atlántico,1203,116,139548
+Naranja,Nariño,1008,108,108864
+Cebolla,Antioquia,1729,34,58786
+Cebolla,Boyacá,1549,126,195174
+Maíz,Nariño,2588,53,137164
+Maíz,Nariño,2195,165,362175
+Cebolla,Meta,2254,161,362894
+Naranja,Norte de Santander,1902,52,98904
+Cebolla,Tolima,1468,94,137992
+Naranja,Boyacá,1473,111,163503
+Cebolla,Atlántico,1655,95,157225
+Naranja,Nariño,1494,118,176292
+Maíz,Tolima,2412,62,149544
+Maíz,Meta,1893,185,350205
+Papa,Córdoba,1911,129,246519
+Naranja,Córdoba,1036,121,125356
+Cebolla,Norte de Santander,2046,182,372372
+Maíz,Tolima,2518,176,443168
+Naranja,Santander,1565,174,272310
+Cebolla,Atlántico,2468,163,402284
+Papa,Valle del Cauca,1662,36,59832
+Naranja,Tolima,874,49,42826
+Cebolla,Norte de Santander,1699,14,23786
+Cebolla,Norte de Santander,1470,110,161700
+Maíz,Norte de Santander,2857,108,308556
+Maíz,Huila,2657,17,45169
+Cebolla,Nariño,2362,129,304698
+Maíz,Atlántico,1687,94,158578
+Papa,Huila,1678,151,253378
+Cebolla,Norte de Santander,1363,16,21808
+Maíz,Huila,2818,102,287436
+Papa,Valle del Cauca,2042,151,308342
+Maíz,Córdoba,1580,67,105860
+Naranja,Córdoba,903,28,25284
+Maíz,Tolima,1710,147,251370
+Cebolla,Tolima,1410,138,194580
+Maíz,Cesar,2654,164,435256
+Cebolla,Atlántico,2568,174,446832
+Papa,Valle del Cauca,2200,73,160600
+Cebolla,Huila,2572,64,164608
+Cebolla,Boyacá,1646,181,297926
+Cebolla,Cundinamarca,1762,152,267824
+Maíz,Norte de Santander,2360,90,212400
+Maíz,Santander,2152,193,415336
+Naranja,Nariño,955,106,101230
+Cebolla,Antioquia,1349,63,84987
+Maíz,Huila,2839,198,562122
+Cebolla,Valle del Cauca,1428,162,231336
+Naranja,Atlántico,1635,44,71940
+Maíz,Cesar,1559,11,17149
+Papa,Boyacá,2057,34,69938
+Papa,Santander,1539,83,127737
+Papa,Norte de Santander,2009,67,134603
+Cebolla,Norte de Santander,1392,137,190704
